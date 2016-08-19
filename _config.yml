@@ -11,6 +11,9 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.7987624311354011
+author:
+  name: Guido Vermeulen
+  email: gjcv@me.com
 name: Guidoland
 title: 'Shane Koyczan~"When your heart is broken, make art with the pieces."'
 description: 'Tag! you''re it! '
